@@ -13,10 +13,6 @@ import static java.lang.Thread.sleep;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author julian
- */
 public class CCanvas extends Canvas implements MouseMotionListener {
 
     Graphics2D g2;
