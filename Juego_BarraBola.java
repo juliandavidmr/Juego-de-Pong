@@ -1,0 +1,20 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Juegopong;
+
+/**
+ *
+ * @author julian
+ */
+public class Juego_BarraBola {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        new Bienvenida();
+//        new Ventana(5);
+    }
+}
